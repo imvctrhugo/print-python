@@ -1,5 +1,5 @@
 # print-python
-Repository for projects developed in Python.
+Repositório para os projetos desenvolvidos em Python.
 
 # Youtube Link
 https://www.youtube.com/channel/UCcOSeisH5aCDvXBbtsLwHYQ
